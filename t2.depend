@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1467586799 source:/home/redproxy/Área de Trabalho/T2/t2/main.c
+	<stdio.h>
+	<string.h>
+
+1467559918 source:/home/redproxy/Área de Trabalho/T2/t2/queue.c
+	"queue.h"
+
+1467550551 /home/redproxy/Área de Trabalho/T2/t2/queue.h
+
+1467554303 /home/redproxy/Área de Trabalho/T2/t2/datatypes.h
+	"queue.h"
+
+1467588693 source:/home/redproxy/Área de Trabalho/T2/GoBackN/main.c
+	<stdio.h>
+	<string.h>
+
